@@ -1,0 +1,12 @@
+{
+  "name": "waiterphp/service",
+  "description": "this is app sample app",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tian Zheng",
+      "email": "949855040@qq.com"
+    }
+  ]
+}
